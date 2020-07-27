@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4554" gradientTransform="translate(0 1.4714e-6)" osb:paint="solid">
+   <stop stop-color="#ffff00" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4548" gradientTransform="translate(0 1.4714e-6)" osb:paint="solid">
+   <stop stop-color="#355bc6" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4562" x1="5.2917" x2="11.642" y1="288.53" y2="288.53" gradientTransform="translate(0 1.4714e-6)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4548"/>
+  <linearGradient id="linearGradient4568" x1="6.35" x2="10.583" y1="288.53" y2="288.53" gradientTransform="translate(0 1.4714e-6)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4554"/>
+ </defs>
+ <g>
+  <path d="m16.933 8.4667-4.2333 7.3323h-8.4667l-4.2333-7.3323 4.2333-7.3323h8.4667z" fill="url(#linearGradient4548)" style="paint-order:stroke fill markers"/>
+  <g fill-rule="evenodd">
+   <path d="m14.817 8.4667-3.175 5.4993h-6.35l-3.175-5.4993 3.175-5.4993h6.35z" fill="url(#linearGradient4554)" style="paint-order:stroke fill markers"/>
+   <circle cx="8.4667" cy="8.4667" r="3.175" fill="url(#linearGradient4562)" style="paint-order:stroke fill markers"/>
+   <circle cx="8.4667" cy="8.4667" r="2.1167" fill="url(#linearGradient4568)" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>

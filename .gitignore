@@ -1,0 +1,14 @@
+# IDEA IntelliJ
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Build
+out/
+log/
+
+# Temporary
+dist/
